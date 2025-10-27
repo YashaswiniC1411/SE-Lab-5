@@ -1,0 +1,10 @@
+************* Module inventory_system
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:15:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:21:12: W4701: Iterated list 'inventory' is being modified inside for loop body, consider iterating through a copy of it instead. (modified-iterating-list)
+inventory_system.py:22:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:24:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+
+------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: 6.67/10, +1.25)
+
